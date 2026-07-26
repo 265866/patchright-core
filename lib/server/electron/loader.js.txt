@@ -1,0 +1,9 @@
+# packages/playwright-core/lib/server/electron/loader.js
+# total: 4.7 KB
+
+## Inlined (2)
+  3.5 KB  packages/playwright-core/src/server/chromium/chromiumSwitches.ts
+  1.0 KB  packages/playwright-core/src/server/electron/loader.ts
+
+## External (1)
+  electron
